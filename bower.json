@@ -4,6 +4,7 @@
   "homepage": "https://github.com/VincentGarreau/particles.js",
   "authors": [
     "Vincent Garreau <vin.garreau@gmail.com>"
+    "K.M. <khup@gmx.com>"
   ],
   "description": "A lightweight JavaScript library for creating particles.",
   "keywords": [

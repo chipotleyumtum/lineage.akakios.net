@@ -1,5 +1,6 @@
 /* -----------------------------------------------
-/* Author : Vincent Garreau  - vincentgarreau.com
+/* OG Author : Vincent Garreau  - vincentgarreau.com
+/* New Author: K.M. - Akakios.net
 /* MIT license: http://opensource.org/licenses/MIT
 /* v2.0.0
 /* ----------------------------------------------- */
