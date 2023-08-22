@@ -3,7 +3,7 @@
  --thanks to [VincentGarreau](http://vincentgarreau.com/particles.js) for coming up with the Library/Concept!  I just forked and messed with it :)
 
  
- Click [Akakios/Lineage](http://lineage.akakios.net/) <-- to see the result
+ Click [Akakios/Lineage](lineage-akakios-net.vercel.app) <-- to see the result
  
  -Hosted on Hostinger
  
