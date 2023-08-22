@@ -1,6 +1,6 @@
 # Sub-main
  Open source project of my subdomain-website, lineage.akakios.net/.
- --thanks to [VincentGarreau](http://vincentgarreau.com/particles.js) for coming up with the Library/Concept!  
+ --thanks to [VincentGarreau](http://vincentgarreau.com/particles.js) for coming up with the Library/Concept!  I just forked and messed with it :)
 
  
  Click [Akakios/Lineage](http://lineage.akakios.net/) <-- to see the result
